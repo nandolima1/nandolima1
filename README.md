@@ -23,6 +23,7 @@
   <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   <img align="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
   <img align="center" alt="Android_Studio" src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white">
+  <img align="center" alt="Bootstrap" src="https://camo.githubusercontent.com/c402bd25609922ab7160b91524aeb125a2e664070816aeb6dd66af9c41f70087/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f426f6f7473747261702d3536334437433f7374796c653d666f722d7468652d6261646765266c6f676f3d626f6f747374726170266c6f676f436f6c6f723d7768697465">
 </div>
 </br>
    <a href="https://github.com/nandolima1/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=nandolima1&show_icons=true&include_all_commits=true&theme=dark&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/nandolima1/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nandolima1&layout=compact&theme=dark&hide_border=true" /></a> |
